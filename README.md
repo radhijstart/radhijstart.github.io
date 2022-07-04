@@ -2,7 +2,7 @@
 
 [![Canon.com/ijsetup](get-start-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Go through the canon.com/ijsetup webpage, click Set Up and start the Canon ij printer setup process. If you have a Canon inkjet printer (wireless or wired), setting up the complete printer is easy. To download canon printer drivers and install them on your pc, visit canon.con/ijsetup and follow instructions.
+Go through the [Canon.com/ijsetup](https://radhijstart.github.io/) webpage, click Set Up and start the Canon ij printer setup process. If you have a Canon inkjet printer (wireless or wired), setting up the complete printer is easy. To download canon printer drivers and install them on your pc, visit canon.con/ijsetup and follow instructions.
 
 ## Steps to Download and install Canon setup from Canon.com/ijsetup
 
@@ -23,7 +23,7 @@ Go through the canon.com/ijsetup webpage, click Set Up and start the Canon ij pr
 1. Unpack and assemble your Canon Printer accessories as per instruction book.
 2. Using a USB connection, connect your Canon Printer with your device.
 3. Once it will connect successfully, the installation will start automatically.
-4. In some printer models, you are required to set up your Printer manually. For that visit canon.com/ijsetup on your web browser.
+4. In some printer models, you are required to set up your Printer manually. For that visit [Canon.com/ijsetup](https://radhijstart.github.io/) on your web browser.
 5. Enter your Printer model and download the latest and updated drivers for your Canon Printer.
 6. Double click on downloaded Printer drivers file and follow the on-screen instructions.
 7. Once setup is completed check with a test print.
@@ -56,7 +56,7 @@ Restart your PC and then try to print something new in case the computer has sto
 
 ### Step 4:
 
-Go to your computer’s “Control Panel” section and then tap on the “Printers and Faxes” option. Click on “Add A Printer” button if your Canon printer isn’t showing up in the list. Follow the on-screen instructions so that your computer will run a test to try to detect the printer.
+Go to your computer’s **“Control Panel”** section and then tap on the **“Printers and Faxes”** option. Click on **“Add A Printer”** button if your Canon printer isn’t showing up in the list. Follow the on-screen instructions so that your computer will run a test to try to detect the printer.
 
 ### Step 5:
 
@@ -64,4 +64,4 @@ Try to uninstall and then re-install the Canon printer software and navigate to 
 
 ### Step 6:
 
-Open the Canon printer software in your system and choose the “Properties” or “Options” tab. Click on either “Test Alignment” or “Clean Print Heads,” depending on the version of the software. Wait for the printer to finish its alignment and then print a test page. Check to see if the test page printed properly and then contact Canon for repair or replacement options if it still isn’t working as expected.
+Open the Canon printer software in your system and choose the **“Properties”** or **“Options”** tab. Click on either **“Test Alignment”** or **“Clean Print Heads,”** depending on the version of the software. Wait for the printer to finish its alignment and then print a test page. Check to see if the test page printed properly and then contact Canon for repair or replacement options if it still isn’t working as expected.
